@@ -8,7 +8,7 @@ public class Main {
 	public static void main(String[] args) throws Exception{
 		JavaCompiler compiler = ToolProvider.getSystemJavaCompiler();
 		int result = compiler.run(null, null, null, "C:\\Users\\Eric\\Desktop\\Hello.java");
-		System.out.println(result == 0? "success":"fail");*/
+		System.out.println(result == 0? "success":"fail");
 		
 		Runtime runtime = Runtime.getRuntime();
 		Process process = runtime.exec("javac C:\\Users\\Eric\\Desktop\\Hello.java");
