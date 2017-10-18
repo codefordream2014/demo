@@ -15,6 +15,7 @@ public class Main {
 		System.out.println(Main.class.getClassLoader());
 		System.out.println(String.class.getClassLoader());
 		System.out.println(String.class.getClassLoader());
+		System.out.println(String.class.getClassLoader());
 	}
 
 }
