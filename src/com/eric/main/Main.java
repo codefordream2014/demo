@@ -13,7 +13,6 @@ public class Main {
 		//Runtime runtime = Runtime.getRuntime();
 		//Process process = runtime.exec("javac C:\\Users\\Eric\\Desktop\\Hello.java");
 		System.out.println(Main.class.getClassLoader());
-		System.out.println(String.class.getClassLoader
 		System.out.println(String.class.getClassLoader());
 		System.out.println(String.class.getClassLoader());
 		System.out.println(String.class.getClassLoader());
@@ -22,5 +21,11 @@ public class Main {
 		System.out.println(String.class.getClassLoader());
 		System.out.println(String.class.getClassLoader());
 		System.out.println(String.class.getClassLoader());
-	}
+		System.out.println(String.class.getClassLoader());
+		System.out.println(String.class.getClassLoader());
+		System.out.println(String.class.getClassLoader());
+		System.out.println(String.class.getClassLoader());
+		System.out.println(String.class.getClassLoader());
+
+		}
 }
