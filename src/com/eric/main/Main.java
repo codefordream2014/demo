@@ -33,6 +33,5 @@ public class Main {
 	        String server="test2";
 		String server="test1";
 	        String server="test2";
-
 		}
 }
