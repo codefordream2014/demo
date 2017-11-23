@@ -29,7 +29,8 @@ public class Main {
                 System.out.println(String.class.getClassLoader());
 		System.out.println(String.class.getClassLoader());
 		System.out.println(String.class.getClassLoader());
-				   String server="";
+	        String server="test1";
+	        String server="test2";
 
 		}
 }
